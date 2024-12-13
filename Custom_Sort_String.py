@@ -9,6 +9,7 @@
 # Did this code successfully run on Leetcode: Yes, the code runs successfully and passes all test cases.
 # Any problem you faced while coding this: No issues, but making sure to correctly handle characters that are not in the `order` string was important.
 
+
 class Solution:
     def customSortString(self, order: str, s: str) -> str:
         # Create a dictionary that stores the position of each character in 'order'
